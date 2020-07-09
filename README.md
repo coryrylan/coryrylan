@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **coryrylan/coryrylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-cory_rylan) in Angular and Web technologies. I currently work at VMware on the [Clarity Design System](https://clarity.design/) team. I help build [Clarity Web Components](https://clarity.design/storybook/core) that work in any front-end stack.
+
+- 📚 [Writting](https://coryrylan.com)
+- 🎤 [Speaking](https://coryrylan.com/speaking)
+- 🐦 [@coryrylan](https://twitter.com/coryrylan)
+- 📕 [Angular Form Essentials](https://angularforms.dev)
+- 📘 [Web Component Essentials](https://webcomponent.dev)
+- 📺 [YouTube](https://www.youtube.com/channel/UC2psqmFgEHGQ3PnfUf1j8vw)
