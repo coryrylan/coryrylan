@@ -23,4 +23,3 @@ Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.googl
 - 📕 [Angular Form Essentials](https://angularforms.dev)
 - 📘 [Web Component Essentials](https://webcomponent.dev)
 - 📺 [YouTube](https://www.youtube.com/channel/UC2psqmFgEHGQ3PnfUf1j8vw)
-- 🎨 [GumThemes](https://gumthemes.dev/)
