@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-cory_rylan) in Angular and Web technologies. Formerly worked at [VMware](https://www.vmware.com/) on the [Clarity Design System](https://storybook.core.clarity.design/) team building [Web Components](https://webcomponent.dev) that work in any front-end stack.
+Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-cory_rylan) in Angular and Web technologies. Formerly worked on the [Clarity Design System](https://storybook.core.clarity.design/) team building [Web Components](https://webcomponent.dev) that work in any front-end stack.
 
 - 📚 [Writting](https://coryrylan.com)
 - 🎤 [Speaking](https://coryrylan.com/speaking)
