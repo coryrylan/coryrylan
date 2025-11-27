@@ -20,7 +20,7 @@ Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.googl
 - 🛠️ [Building](https://blueprintui.dev)
 - 📚 [Writting](https://coryrylan.com)
 - 🎤 [Speaking](https://coryrylan.com/speaking)
-- 🐦 [@coryrylan](https://twitter.com/coryrylan)
+- 🐦 [@coryrylan](https://bsky.app/profile/coryrylan.com)
 - 📕 [Angular Form Essentials](https://angularforms.dev)
 - 📘 [Web Component Essentials](https://webcomponent.dev)
 - 📺 [YouTube](https://www.youtube.com/channel/UC2psqmFgEHGQ3PnfUf1j8vw)
