@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Cory Rylan. I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-cory_rylan) in Angular. Currently building UI tools and [Web Components](https://webcomponent.dev) for NVIDIA's AI platform.
+Hello, I'm Cory Rylan. Software developer, writter and speaker. Currently building UI tools, Design Systems and Web Components.
 
 - 🛠️ [Building](https://blueprintui.dev)
 - 📚 [Writting](https://coryrylan.com)
 - 🎤 [Speaking](https://coryrylan.com/speaking)
 - 🐦 [@coryrylan](https://bsky.app/profile/coryrylan.com)
-- 📕 [Angular Form Essentials](https://angularforms.dev)
-- 📘 [Web Component Essentials](https://webcomponent.dev)
 - 📺 [YouTube](https://www.youtube.com/channel/UC2psqmFgEHGQ3PnfUf1j8vw)
