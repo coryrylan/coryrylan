@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Cory Rylan. Software developer, writter and speaker. Currently building UI tools, Design Systems and Web Components.
 
-- 🛠️ [Building](https://blueprintui.dev)
+- 🛠️ [Building](https://nvidia.github.io/elements/)
 - 📚 [Writting](https://coryrylan.com)
 - 🎤 [Speaking](https://coryrylan.com/speaking)
 - 🐦 [@coryrylan](https://bsky.app/profile/coryrylan.com)
